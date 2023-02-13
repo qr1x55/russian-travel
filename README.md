@@ -4,7 +4,7 @@
 
 ## Demo
 
-На Github Pages https://qr1x55.github.io/russian-travel/ 
+Github Pages: https://qr1x55.github.io/russian-travel/index.html
 
 **Использованные технологии:**
 
