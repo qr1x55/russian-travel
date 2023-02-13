@@ -33,7 +33,6 @@
 
   .intro {
     margin-top: 64px;
-    margin-left: auto;
     max-width: calc(100% - 16px*2);
   }
 }
