@@ -1,0 +1,5 @@
+.place__description {
+  display: flex;
+  flex-flow: column;
+  gap: 26px;
+}
