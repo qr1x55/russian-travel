@@ -6,7 +6,7 @@
   margin-right: 18px;
 }
 
-.footer__link:last-of-type{
+.footer__link:last-child {
   margin-right: 0;
 }
 
@@ -19,7 +19,7 @@
     margin-bottom: 32px;
   }
 
-  .footer__link:last-of-type{
+  .footer__link:last-child {
     margin-bottom: 48px;
   }
 }
